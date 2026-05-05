@@ -1,7 +1,7 @@
 {
-  "name": "clone-tabnews",
+  "name": "evast",
   "version": "1.0.0",
-  "description": "A clone of tabnews to learn at curso.dev with @filipedeschamps",
+  "description": "A starter version from eva station",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
